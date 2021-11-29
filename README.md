@@ -32,5 +32,6 @@ app-server/index.jsp
 Programming Language: JAVA SE 11.0.11 <br/>
 WEB: HTML5, CSS3, JavaScript, BootStrap, jQuery, AJAX, JSON, JSTL&EL <br/>
 IDE: Eclipse, Visual Studio Code <br/>
-DataBase: MariaDB 2.7.4
+DataBase: MariaDB 2.7.4 <br/>
+server : Apache Tomcat v9.0
 <br/><br/>
