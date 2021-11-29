@@ -28,7 +28,7 @@
 app-server/index.jsp
 <br/><br/>
 
-**Strack**<br/>
+**Stack**<br/>
 Programming Language: JAVA SE 11.0.11 <br/>
 WEB: HTML5, CSS3, JavaScript, BootStrap, jQuery, AJAX, JSON, JSTL&EL <br/>
 IDE: Eclipse, Visual Studio Code <br/>
